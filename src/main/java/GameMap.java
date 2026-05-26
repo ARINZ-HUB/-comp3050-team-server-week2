@@ -4,7 +4,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-
+package comp3050.server;
 public class GameMap {
 
     private static final char[][] map;
